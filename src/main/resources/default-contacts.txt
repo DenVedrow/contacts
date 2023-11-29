@@ -1,0 +1,2 @@
+Ivanov Ivan Ivanovich;+79099999990;ivan@example.example
+Smirnoff Prokhor Andreevich;+79099999991;prokhor@example.example
